@@ -1,3 +1,5 @@
+"use client";
+
 import { ArrowDown } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { motion, useScroll, useTransform } from 'motion/react';
